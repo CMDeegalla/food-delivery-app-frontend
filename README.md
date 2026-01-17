@@ -12,7 +12,13 @@ Accessibility considerations included:
 - Meaningful labels/text for buttons and inputs
 - Consistent structure to support screen readers
 - Reduced clutter and easy-to-follow user flow
-- Font size toggle/dark mode/voice input included.  
+- Font size toggle/dark mode/voice input included.
+
+### Supported Users
+- Users with low vision
+- Users with reading difficulties (e.g. dyslexia)
+- Elderly users
+- Users who prefer simplified interfaces
 ## 👥 Team Information
 - **Team size:** 12 members  
 - **My role:** Frontend Developer (one of 2 frontend developers)
